@@ -33,7 +33,7 @@
 /*** <<<MODULE MANAGER START>>>
 module
 {
-		documentation "https://github.com/Hexsl/hex-unrealircd-modules/blob/main/modules/README.md";
+		documentation "https://github.com/Hexsl/hex-unrealircd-modules/blob/main/modules/qline/README.md";
 		troubleshooting "I go by Hex on the UnrealIRCd network, and can also be emailed at me@hexick.com";
 		min-unrealircd-version "6.*";
 		max-unrealircd-version "6.*";
